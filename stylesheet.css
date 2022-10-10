@@ -13,7 +13,14 @@ a:hover {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 .myDiv {
-    border: 5px outset red;
-    background-color: lightblue;
+    border: 5px outset black;
+    background-color: orangered;
     text-align: center;
+  }
+  .image{
+    border: 10px ridge #f00;
+    background-color: black;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
   }
