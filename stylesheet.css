@@ -9,3 +9,8 @@
     font-size: medium;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
