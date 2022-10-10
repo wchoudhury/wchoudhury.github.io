@@ -7,14 +7,19 @@
 a:hover {
     background-color: cyan;
 }
-.paragraph{
+.paragraph1{
     color: black;
-    font-size: medium;
+    font-size: large;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 .myDiv {
     border: 5px outset black;
     background-color: orangered;
+    text-align: center;
+  }
+  .myDiv1 {
+    border: 5px outset wheat;
+    background-color: navy;
     text-align: center;
   }
   .image{
