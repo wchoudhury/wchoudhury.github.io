@@ -1,17 +1,10 @@
-.heading_one{
-    color: navy;
-    text-align: center;
-    font-size: xx-large;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
 .paragraph{
     color: black;
     font-size: medium;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
-.center{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
+.myDiv{
+    border: 5px outset red;
+    background-color: navy;    
+    text-align: center;
+  }
