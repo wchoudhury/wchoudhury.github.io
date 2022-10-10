@@ -1,3 +1,6 @@
-.red-text {
-    color: red;
+.heading_one{
+    color: navy;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
