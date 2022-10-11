@@ -7,8 +7,8 @@
 a:hover {
     background-color: cyan;
 }
-.paragraph1{
-    color: black;
+.paragraph{
+    color: darkgreen;
     font-size: large;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
@@ -16,16 +16,11 @@ a:hover {
     border: 5px outset black;
     background-color: orangered;
     text-align: center;
-  }
-  .myDiv1 {
-    border: 5px outset wheat;
-    background-color: navy;
-    text-align: center;
-  }
-  .image{
+}
+.image{
     border: 10px ridge #f00;
     background-color: black;
     padding: .5rem;
     display: flex;
     flex-direction: column;
-  }
+}
